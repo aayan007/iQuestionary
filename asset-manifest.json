@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/iQuestionary/static/css/main.aa8d9ca0.css",
+    "main.js": "/iQuestionary/static/js/main.48587480.js",
+    "static/media/ques1.png": "/iQuestionary/static/media/ques1.fe1684c8e94fd85a54bf.png",
+    "index.html": "/iQuestionary/index.html",
+    "main.aa8d9ca0.css.map": "/iQuestionary/static/css/main.aa8d9ca0.css.map",
+    "main.48587480.js.map": "/iQuestionary/static/js/main.48587480.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa8d9ca0.css",
+    "static/js/main.48587480.js"
+  ]
+}
